@@ -1,0 +1,7 @@
+ config {
+   type: "declaration",
+   database: "bd-demo-334423",
+   schema: "stack_overflow",
+   name: "posts_answers"
+ }
+ 
